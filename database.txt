@@ -1,0 +1,20 @@
+John,Doe,GroupA,Math,101,gay
+Jane,Smith,GroupB,Physics,102,straight
+Michael,Johnson,GroupA,Chemistry,103,pansexuall
+Emily,Williams,GroupC,Computer Sh,104,nothig
+Daniel,Brown,GroupB,Biology,105,nothig
+Olivia,Davis,GroupC,Math,106,nothig
+Matthew,Miller,GroupA,Physics,107,nothig
+Sophia,Jones,GroupB,Chemistry,108,nothig
+William,Wilson,GroupC,Computer Sm,109,Anothig
+Emma,Taylor,GroupA,Biology,110,nothig
+Ethan,Anderson,GroupB,Math,111,nothig
+Ava,Thomas,GroupC,Physics,112,Anothig
+Noah,Hall,GroupA,Chemistry,113,nothig
+Isabella,Allen,GroupB,Computer Sr,114,nothig
+Liam,Green,GroupC,Biology,115,nothig
+Mia,Lee,GroupA,Math,116,nothig
+James,Turner,GroupB,Physics,117,nothig
+Avery,Hill,GroupC,Chemistry,118,nothig
+Logan,Scott,GroupA,Computer Sw,119,nothig
+1lja,prihodjko,loh,prom,120,ihbye
